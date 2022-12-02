@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "https://media.gettyimages.com/id/157482029/photo/stack-of-books.jpg?s=612x612&w=gi&k=20&c=_Yaofm8sZLZkKs1eMkv-zhk8K4k5u0g0fJuQrReWfdQ="
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270__340.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "https://media.istockphoto.com/id/636739634/photo/banana.jpg?s=612x612&w=0&k=20&c=pO0985tQi1LpWRlWqpRvbab8S5yxgnEOVcs5CHIlcDE="
+    },
+    {
+      "id": 4,
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "https://cdn.pixabay.com/photo/2012/05/29/00/43/car-49278__340.jpg"
+    }
+  ]
