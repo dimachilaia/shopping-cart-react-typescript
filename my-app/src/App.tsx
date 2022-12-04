@@ -11,9 +11,8 @@ const App = () => {
       <Navbar />
       <Container className="mb-4">
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/store" element={<Store />} />
-          <Route path="/about" element={<About />} />
+          <Route path="/Home" element={<Home />} />
+          <Route path="/" element={<Store />} />
         </Routes>
       </Container>
     </ShoppingCartProvider>
