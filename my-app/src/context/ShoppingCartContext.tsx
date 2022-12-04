@@ -1,4 +1,4 @@
-import React, { createContext, ReactNode, useState } from "react";
+import React, { createContext, ReactNode, useState, useContext } from "react";
 
 type ShoppingCartProviderProps = {
   children: ReactNode;
@@ -18,7 +18,7 @@ type CartItem = {
 const ShoppingCartContext = createContext({} as ShoppingCartContext);
 
 export const useShoppingCart = () => {
-  return <div></div>;
+  return useContext(ShoppingCartContext);
 };
 
 export const ShoppingCartProvider = ({
